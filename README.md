@@ -1,3 +1,3 @@
 # studybud
 
-go into main folder to see codes files
+a guided django tutorail
